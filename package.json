@@ -13,7 +13,11 @@
   "keywords": [
     "UUID",
     "v1",
+    "v2",
+    "v3",
     "v4",
+    "v5",
+    "nil",
     "regex"
   ],
   "author": "Marwan Butrous <github.com/afram>",
