@@ -1,0 +1,28 @@
+{
+  "name": "is-uuid",
+  "version": "1.0.0",
+  "description": "UUID check for Node and the browser",
+  "main": "lib/is-uuid.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/afram/is-uuid.git"
+  },
+  "keywords": [
+    "UUID",
+    "v1",
+    "v4",
+    "regex"
+  ],
+  "author": "Marwan Butrous <github.com/afram>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afram/is-uuid/issues"
+  },
+  "homepage": "https://github.com/afram/is-uuid#readme",
+  "devDependencies": {
+    "jasmine": "^2.4.1"
+  }
+}
