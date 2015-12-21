@@ -1,6 +1,6 @@
 {
   "name": "is-uuid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "UUID check for Node and the browser",
   "main": "lib/is-uuid.js",
   "scripts": {
